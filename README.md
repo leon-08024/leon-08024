@@ -52,4 +52,4 @@
 
 
 
-> 🔁 Este README é atualizado periodicamente com novos repositórios, projetos práticos, atividades educacionais e códigos comentados para ajudar outros professores e desenvolvedores.
+> 🔁 Este README é atualizado periodicamente ( (lll￢ω￢)  quando eu conseguir) com novos repositórios, projetos , atividades
