@@ -13,8 +13,8 @@
 
 ## 📁 O que você vai encontrar por aqui
 
-🥀 Ativades
-🥀 Projetos
+ ✍️(◔◡◔)  Ativades
+✍️(◔◡◔)  Projetos
 
 
 ---
@@ -41,7 +41,7 @@
 
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=leon-08024&show_icons=true&theme=radical" />
