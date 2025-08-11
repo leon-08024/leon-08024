@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Estudante+De+Desinvolvimento+De+Sistema" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=d+=+=+=+=+=+(+￣︶￣*+)+b" />
 </p>
 
 <p align="center">
@@ -8,14 +8,12 @@
 </p>
 
 ---
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img width="35" height="35" src="https://github.com/b3yc0d3/twemoji-flags/blob/main/assets/flags/demi_flag.svg" alt="Demi Flag" style="margin-right: 35px;" />
-      Sobre Mim (～￣▽￣)
-  <img width="35" height="35" src="https://github.com/b3yc0d3/twemoji-flags/blob/main/assets/flags/demi_flag.svg" alt="Demi Flag" style="margin-left: 35px;" />
-</div>
+## <img width="35" height="35" src="https://github.com/b3yc0d3/twemoji-flags/blob/main/assets/flags/demi_flag.svg" alt="Demi Flag" style="margin-right: 35px;" /> Sobre Mim (～￣▽￣) <img width="35" height="35" src="https://github.com/b3yc0d3/twemoji-flags/blob/main/assets/flags/demi_flag.svg" alt="Demi Flag" style="margin-left: 35px;" />
+
 
 Meu nome é Cauê Cardoso de França sou rstudante de desenvolvimento de sistemas, atualmente estou no 2º ano do Ensino Médio Técnico no Escola SENAI Blumenau.
 Participo do +Devs2Blu na disciplina de C# e sou pesquisador científico na Iniciação Científica Fritz Müller.
+
 
 ---
 ## （￣︶￣）　 Atualmente Estudando
