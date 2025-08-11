@@ -18,7 +18,7 @@ Meu nome é Cauê Cardoso de França sou rstudante de desenvolvimento de sistema
 Participo do +Devs2Blu na disciplina de C# e sou pesquisador científico na Iniciação Científica Fritz Müller.
 
 ---
-## （￣︶￣）↗　 Atualmente Estudando
+## （￣︶￣）　 Atualmente Estudando
 
 - Desenvolvimento **Back-end** com **C#**
 - Desenvolvimento **Front-end** com **Angular**
@@ -49,7 +49,7 @@ Participo do +Devs2Blu na disciplina de C# e sou pesquisador científico na Inic
 
 
 ## Status Do Github
-#### Triste.. (T_T)
+###### Triste.. (T_T)
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=leon-08024&show_icons=true&theme=radical" />
