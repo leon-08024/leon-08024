@@ -1,5 +1,3 @@
-<h1 align="center">👋 Olá, seja bem-vindo(a) ao meu GitHub!</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Estudante+De+Desinvolvimento+De+Sistema" />
 </p>
@@ -10,29 +8,38 @@
 </p>
 
 ---
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <img width="35" height="35" src="https://github.com/b3yc0d3/twemoji-flags/blob/main/assets/flags/demi_flag.svg" alt="Demi Flag" style="margin-right: 35px;" />
+      Sobre Mim (～￣▽￣)
+  <img width="35" height="35" src="https://github.com/b3yc0d3/twemoji-flags/blob/main/assets/flags/demi_flag.svg" alt="Demi Flag" style="margin-left: 35px;" />
+</div>
 
-## 📁 O que você vai encontrar por aqui
-
- ✍️(◔◡◔)  Ativades
-✍️(◔◡◔)  Projetos
-
+Meu nome é Cauê Cardoso de França sou rstudante de desenvolvimento de sistemas, atualmente estou no 2º ano do Ensino Médio Técnico no Escola SENAI Blumenau.
+Participo do +Devs2Blu na disciplina de C# e sou pesquisador científico na Iniciação Científica Fritz Müller.
 
 ---
+## （￣︶￣）↗　 Atualmente Estudando
 
-## 🧰 Tecnologias que utilizo
+- Desenvolvimento **Back-end** com **C#**
+- Desenvolvimento **Front-end** com **Angular**
+  
+---
 
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
-[![Alura](https://custom-icon-badges.demolab.com/badge/Alura-001332?logo=alura-white&logoColor=fff)](#)
-[![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
+## (*￣3￣)╭  Tecnologias
+
+### Linguagens (★‿★)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+
+### Frameworks b(￣▽￣)d
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
-[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
+[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
+
+### Tecnologias (づ￣ 3￣)づ
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 
 
 
@@ -41,7 +48,8 @@
 
 
 
-## 📊 GitHub Status
+## Status Do Github
+#### Triste.. (T_T)
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=leon-08024&show_icons=true&theme=radical" />
@@ -52,4 +60,4 @@
 
 
 
-> 🔁 Este README é atualizado periodicamente ( (lll￢ω￢)  quando eu conseguir) com novos repositórios, projetos , atividades
+> 🔁 Este README é atualizado de vez em quando  (lll￢ω￢)  (quando eu conseguir) com novos repositórios, projetos e atividades
