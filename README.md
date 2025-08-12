@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=d+=+=+=+=+=+(+￣︶￣*+)+b" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/leon-08024"><img src="https://img.shields.io/github/followers/leon-08024?label=Seguidores&style=social" /></a>
-  <a href="mailto:cauecardosodefranca@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-red?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
-
 ---
 ## <img width="35" height="35" src="https://github.com/b3yc0d3/twemoji-flags/blob/main/assets/flags/demi_flag.svg" alt="Demi Flag" style="margin-right: 35px;" /> Sobre Mim (～￣▽￣) <img width="35" height="35" src="https://github.com/b3yc0d3/twemoji-flags/blob/main/assets/flags/demi_flag.svg" alt="Demi Flag" style="margin-left: 35px;" />
 
