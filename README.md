@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/leon-0802"><img src="https://img.shields.io/github/followers/leon-08024?label=Seguidores&style=social" /></a>
+  <a href="https://github.com/leon-08024"><img src="https://img.shields.io/github/followers/leon-08024?label=Seguidores&style=social" /></a>
   <a href="mailto:cauecardosodefranca@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-red?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
