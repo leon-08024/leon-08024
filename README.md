@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=d+=+=+=+=+=+(+￣︶￣*+)b++Cauê+Cardoso" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=d=====(+￣︶￣*+)b++++++Cauê+Cardoso" />
 </p>
 
 ---
@@ -11,7 +11,7 @@ Participo do curso +Devs2Blu na disciplina de C# e sou pesquisador científico n
 
 
 ---
-## （￣︶￣）　 Atualmente Estudando
+## --Atualmente Estudando--
 
 - Desenvolvimento **Back-end** com **C#**
 - Desenvolvimento **Front-end** com **Angular**
