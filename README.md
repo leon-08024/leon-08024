@@ -18,17 +18,17 @@ Meu nome é Cauê Cardoso de França sou estudante de desenvolvimento de sistema
 
 ## Tecnologias 
 
-### Linguagens (★‿★)
+### Linguagens
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
-### Frameworks (≧w≦)
+### Frameworks
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
 
-### Tecnologias (ФωФ)
+### Tecnologias
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 
@@ -51,4 +51,4 @@ Meu nome é Cauê Cardoso de França sou estudante de desenvolvimento de sistema
 
 
 
->  Este README é atualizado de vez em quando ( (ll￢ω￢)  quando eu conseguir) com novos repositórios, projetos e atividades
+>  Este README é atualizado de vez em quando (quando eu conseguir) com novos repositórios, projetos e atividades
