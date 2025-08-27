@@ -3,7 +3,7 @@
 </p>
 
 ---
-## <img width="35" height="35" src="https://github.com/b3yc0d3/twemoji-flags/blob/main/assets/flags/demi_flag.svg" alt="Demi Flag" style="margin-right: 35px;" /> Sobre Mim <img width="35" height="35" src="https://github.com/b3yc0d3/twemoji-flags/blob/main/assets/flags/demi_flag.svg" alt="Demi Flag" style="margin-left: 35px;" />
+## <img width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Demisexual_Pride_Flag.svg/2560px-Demisexual_Pride_Flag.svg.png" alt="Demi Flag" style="margin-right: 35px;" /> Sobre Mim <img width="35" height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-VqDmop-DfeteoA_lxzoAmjPEl5z3nJUyzQ&s" style="margin-left: 35px" />
 
 
 Meu nome é Cauê Cardoso de França sou estudante de desenvolvimento de sistemas, atualmente estou no 2º ano do Ensino Médio Técnico no Escola SENAI Blumenau. Participo do curso +Devs2Blu na disciplina de C# e sou pesquisador científico na Iniciação Científica Fritz Müller.
